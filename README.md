@@ -1,1 +1,3 @@
 # LaunchX
+
+Katas del OnBoarding
